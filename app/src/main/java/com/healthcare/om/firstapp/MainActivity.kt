@@ -12,6 +12,7 @@ class MainActivity : AppCompatActivity() {
 
         var container = "Apple"
         Toast.makeText(MainActivity@this,container,Toast.LENGTH_SHORT).show()
+        var container = "Orange"
 
 
     }
